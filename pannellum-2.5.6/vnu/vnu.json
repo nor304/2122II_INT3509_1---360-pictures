@@ -1,0 +1,490 @@
+{
+    "default": {
+        "firstScene": "3"
+    },
+
+    "scenes": {
+        "1": {
+            "panorama": "./assets/1.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 150,
+                    "type": "scene",
+                    "text": "2",
+                    "sceneId": "2"
+                }
+            ]
+        },
+        "2": {
+            "panorama": "./assets/2.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 160,
+                    "type": "scene",
+                    "text": "1",
+                    "sceneId": "1"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 320,
+                    "type": "scene",
+                    "text": "3",
+                    "sceneId": "3"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 370,
+                    "type": "scene",
+                    "text": "6",
+                    "sceneId": "6"
+                }
+            ]
+        },
+        "3": {
+            "panorama": "./assets/3.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 330,
+                    "type": "scene",
+                    "text": "2",
+                    "sceneId": "2"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 540,
+                    "type": "scene",
+                    "text": "4",
+                    "sceneId": "4"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 200,
+                    "type": "info",
+                    "text": "",
+                    "image": "https://sotaytuyensinh.vn//uploads/diem-chuan-dh-cong-nghe%20ha%20noi-min.jpg",
+                    "width": 200
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 240,
+                    "type": "info",
+                    "text": "",
+                    "video": "https://www.youtube.com/watch?v=cdkSV-mBg0s&list=RDcdkSV-mBg0s&start_radio=1",
+                    "URL": "https://www.youtube.com/watch?v=cdkSV-mBg0s&list=RDcdkSV-mBg0s&start_radio=1",
+                    "width": 200
+                }
+            ]
+        },
+        "4": {
+            "panorama": "./assets/4.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 360,
+                    "type": "scene",
+                    "text": "3",
+                    "sceneId": "3"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": -100,
+                    "type": "scene",
+                    "text": "5",
+                    "sceneId": "5"
+                }
+            ]
+        },
+        "5": {
+            "panorama": "./assets/5.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 445,
+                    "type": "scene",
+                    "text": "4",
+                    "sceneId": "4"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 265,
+                    "type": "scene",
+                    "text": "8",
+                    "sceneId": "8"
+                }
+            ]
+        },
+        "6": {
+            "panorama": "./assets/6.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 365,
+                    "type": "scene",
+                    "text": "2",
+                    "sceneId": "2"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": -90,
+                    "type": "scene",
+                    "text": "7",
+                    "sceneId": "7"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": -140,
+                    "type": "scene",
+                    "text": "9",
+                    "sceneId": "9"
+                }
+            ]
+        },
+        "7": {
+            "panorama": "./assets/7.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -2,
+                    "yaw": 170,
+                    "type": "scene",
+                    "text": "6",
+                    "sceneId": "6"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 275,
+                    "type": "scene",
+                    "text": "9",
+                    "sceneId": "9"
+                }
+            ]
+        },
+        "8": {
+            "panorama": "./assets/8.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -2,
+                    "yaw": 85,
+                    "type": "scene",
+                    "text": "5",
+                    "sceneId": "5"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": -40,
+                    "type": "scene",
+                    "text": "9",
+                    "sceneId": "9"
+                }
+            ]
+        },
+        "9": {
+            "panorama": "./assets/9.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 265,
+                    "type": "scene",
+                    "text": "8",
+                    "sceneId": "8"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 195,
+                    "type": "scene",
+                    "text": "6",
+                    "sceneId": "6"
+                },
+                {
+                    "pitch": -2,
+                    "yaw": 168,
+                    "type": "scene",
+                    "text": "7",
+                    "sceneId": "7"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 25,
+                    "type": "scene",
+                    "text": "10",
+                    "sceneId": "10"
+                }
+            ]
+        },
+        "10": {
+            "panorama": "./assets/10.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -2,
+                    "yaw": 130,
+                    "type": "scene",
+                    "text": "9",
+                    "sceneId": "9"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": -85,
+                    "type": "scene",
+                    "text": "11",
+                    "sceneId": "11"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 30,
+                    "type": "scene",
+                    "text": "23",
+                    "sceneId": "23"
+                }
+            ]
+        },
+        "11": {
+            "panorama": "./assets/11.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 90,
+                    "type": "scene",
+                    "text": "10",
+                    "sceneId": "10"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 272,
+                    "type": "scene",
+                    "text": "12",
+                    "sceneId": "12"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 0,
+                    "type": "scene",
+                    "text": "17",
+                    "sceneId": "17"
+                }
+            ]
+        },
+        "12": {
+            "panorama": "./assets/12.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 103,
+                    "type": "scene",
+                    "text": "11",
+                    "sceneId": "11"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": -20,
+                    "type": "scene",
+                    "text": "13",
+                    "sceneId": "13"
+                }
+            ]
+        },
+        "13": {
+            "panorama": "./assets/13.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 210,
+                    "type": "scene",
+                    "text": "12",
+                    "sceneId": "12"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": -10,
+                    "type": "scene",
+                    "text": "14",
+                    "sceneId": "14"
+                }
+            ]
+        },
+        "14": {
+            "panorama": "./assets/14.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": -80,
+                    "type": "scene",
+                    "text": "13",
+                    "sceneId": "13"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 90,
+                    "type": "scene",
+                    "text": "15",
+                    "sceneId": "15"
+                }
+            ]
+        },
+        "15": {
+            "panorama": "./assets/15.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": -80,
+                    "type": "scene",
+                    "text": "14",
+                    "sceneId": "14"
+                },
+                {
+                    "pitch": -1,
+                    "yaw": 93,
+                    "type": "scene",
+                    "text": "16",
+                    "sceneId": "16"
+                }
+            ]
+        },
+        "16": {
+            "panorama": "./assets/16.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -1,
+                    "yaw": -83,
+                    "type": "scene",
+                    "text": "15",
+                    "sceneId": "15"
+                }
+            ]
+        },
+        "17": {
+            "panorama": "./assets/17.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": -90,
+                    "type": "scene",
+                    "text": "11",
+                    "sceneId": "11"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 115,
+                    "type": "scene",
+                    "text": "18",
+                    "sceneId": "18"
+                }
+            ]
+        },
+        "18": {
+            "panorama": "./assets/18.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 1,
+                    "yaw": -70,
+                    "type": "scene",
+                    "text": "17",
+                    "sceneId": "17"
+                },
+                {
+                    "pitch": -1,
+                    "yaw": 98,
+                    "type": "scene",
+                    "text": "19",
+                    "sceneId": "19"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "20",
+                    "sceneId": "20"
+                }
+            ]
+        },
+        "19": {
+            "panorama": "./assets/19.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 1,
+                    "yaw": -90,
+                    "type": "scene",
+                    "text": "18",
+                    "sceneId": "18"
+                },
+                {
+                    "pitch": 4,
+                    "yaw": 0,
+                    "type": "scene",
+                    "text": "21",
+                    "sceneId": "21"
+                }
+            ]
+        },
+        "20": {
+            "panorama": "./assets/20.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -1,
+                    "yaw": 90,
+                    "type": "scene",
+                    "text": "18",
+                    "sceneId": "18"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 0,
+                    "type": "scene",
+                    "text": "22",
+                    "sceneId": "22"
+                }
+            ]
+        },
+        "21": {
+            "panorama": "./assets/21.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -7,
+                    "yaw": 0,
+                    "type": "scene",
+                    "text": "19",
+                    "sceneId": "19"
+                }
+            ]
+        },
+        "22": {
+            "panorama": "./assets/22.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -2,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "20",
+                    "sceneId": "20"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 0,
+                    "type": "scene",
+                    "text": "23",
+                    "sceneId": "23"
+                }
+            ]
+        },
+        "23": {
+            "panorama": "./assets/23.jpg",
+            "hotSpots": [
+                {
+                    "pitch": -2,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "22",
+                    "sceneId": "22"
+                },
+                {
+                    "pitch": 0,
+                    "yaw": 0,
+                    "type": "scene",
+                    "text": "10",
+                    "sceneId": "10"
+                }
+            ]
+        }
+    }
+}
